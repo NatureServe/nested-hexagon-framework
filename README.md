@@ -49,5 +49,5 @@ NHF_Extensions_wm.mxd is the same map, but projected to web mercator. It is inte
 
 ![CC-BY-NC-SA-4.0 license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
