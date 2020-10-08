@@ -23,7 +23,7 @@ Technically, the exact boundaries of a Level 1, 2, or 3 Summary Hex Aggregation 
 
 The original nested hexagon framework can be downloaded from the [Western Association of Fish & Wildlife Agencies Crucial Assessment Tool](https://www.wafwachat.org/) data portal.
 
-The extended version of the framework can be downloaded through the [Releases](releases) section of this Github site.
+The extended version of the framework can be downloaded through the [Releases](https://github.com/NatureServe/nested-hexagon-framework/releases) section of this Github site.
 
 nested_hexagon_framework_1sqm.gdb.zip contains a file geodatabase with the following layers:
 
