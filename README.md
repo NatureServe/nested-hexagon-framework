@@ -42,9 +42,9 @@ nested_hexagon_framework_1sqm.gdb.zip contains a file geodatabase with the follo
 - nhf_summary_hexes_l1_actual - The unioned geometries of the nhf_wheels layer grouped by the nhf_summary_hexes_l1_id. This is considered the "actual shape" of the nhf_summary_hexes_l1 geometries.
 
 
-NHF_Extensions.mxd can be used to visualize the geodatabase layers.
+NHF_Extensions.mapx can be used to visualize the geodatabase layers.
 
-NHF_Extensions_wm.mxd is the same map, but projected to web mercator. It is intended to give an idea of how data will look through a web map.
+NHF_Extensions_wm.mapx is the same map, but projected to web mercator. It is intended to give an idea of how data will look through a web map.
 
 
 # License #
