@@ -39,6 +39,8 @@ nested_hexagon_framework_1sqm.gdb.zip contains a file geodatabase with the follo
 - nhf_summary_hexes_l2 - approximate hexagons for the Level 2 Summary Hex Aggregations
 - nhf_summary_hexes_l3 - approximate hexagons for the Level 3 Summary Hex Aggregations
 - grid_5deg_nhf_coverage - this shows the 5 degree grid zones covered by the original framework, those covered by NatureServe's extensions, and those which are not covered by either.
+- nhf_summary_hexes_l1_actual - The unioned geometries of the nhf_wheels layer grouped by the nhf_summary_hexes_l1_id. This is considered the "actual shape" of the nhf_summary_hexes_l1 geometries.
+
 
 NHF_Extensions.mxd can be used to visualize the geodatabase layers.
 
